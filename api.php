@@ -17,8 +17,9 @@ if ($timeWindow > 2) {
 }
 
 // GitHub URLs
-$githubFileUrl = 'https://github.com/username/repo/blob/main/file_name.ext';
-$githubRepoUrl = 'https://github.com/username/repo';
+$githubFileUrl = 'https://github.com/Jacktone-wambui/HNGx-Backend/blob/main/api.php';
+$githubRepoUrl = 'https://github.com/Jacktone-wambui/HNGx-Backend';
+
 
 // Response JSON
 $response = [

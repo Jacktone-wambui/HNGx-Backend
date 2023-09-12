@@ -1,8 +1,13 @@
 :dart: Objective
+<br>
 Create and host an endpoint using any programming language of your choice.
+<br>
 The endpoint should take two GET request query parameters and return specific information in JSON format.
+<br>
 :spiral_note_pad: Requirements
+<br>
 The information required includes:
+<br>
 Slack name
 Current day of the week
 Current UTC time (with validation of +/-2)

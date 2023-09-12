@@ -10,6 +10,7 @@ Track
 The GitHub URL of the file being run
 The GitHub URL of the full source code.
 A  Status Code of Success
+<br>
 JSON
 {
   "slack_name": "example_name",
@@ -20,6 +21,7 @@ JSON
   "github_repo_url": "https://github.com/username/repo",
   "status_code": 200
 }
+<br>
 Acceptance Criteria
 Endpoint Creation: Provide a publicly accessible endpoint.
 GET Parameters: The endpoint should accept two GET request query parameters: slack_name and track.
